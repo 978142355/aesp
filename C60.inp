@@ -1,0 +1,9 @@
+npara 4
+file C60.df
+task esp
+unit angs
+read type2
+0.2 4.0
+0.2 4.0
+0.2 4.0
+
